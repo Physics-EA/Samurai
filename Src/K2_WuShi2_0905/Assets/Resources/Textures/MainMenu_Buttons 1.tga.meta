@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 43180b4484a8f9547ad2e8df0fe4da58
+timeCreated: 1503413292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainMenu_Buttons 1_0
+    21300002: MainMenu_Buttons 1_1
+    21300004: MainMenu_Buttons 1_3
+    21300006: MainMenu_Buttons 1_4
+    21300008: MainMenu_Buttons 1_5
+    21300010: MainMenu_Buttons 1_6
+    21300012: MainMenu_Buttons 1_7
+    21300014: MainMenu_Buttons 1_8
+    21300016: MainMenu_Buttons 1_9
+    21300018: MainMenu_Buttons 1_10
+    21300020: MainMenu_Buttons 1_14
+    21300022: MainMenu_Buttons 1_18
+    21300024: MainMenu_Buttons 1_19
+    21300026: MainMenu_Buttons 1_20
+    21300028: MainMenu_Buttons 1_21
+    21300030: MainMenu_Buttons 1_22
+    21300032: MainMenu_Buttons 1_23
+    21300034: MainMenu_Buttons 1_24
+    21300036: MainMenu_Buttons 1_25
+    21300038: MainMenu_Buttons 1_26
+    21300040: MainMenu_Buttons 1_27
+    21300042: MainMenu_Buttons 1_28
+    21300044: MainMenu_Buttons 1_29
+    21300046: MainMenu_Buttons 1_30
+    21300048: MainMenu_Buttons 1_31
+    21300050: MainMenu_Buttons 1_32
+    21300052: MainMenu_Buttons 1_33
+    21300054: MainMenu_Buttons 1_34
+    21300056: MainMenu_Buttons 1_62
+    21300058: MainMenu_Buttons 1_2
+    21300060: MainMenu_Buttons 1_11
+    21300062: MainMenu_Buttons 1_12
+    21300064: MainMenu_Buttons 1_13
+    21300066: MainMenu_Buttons 1_15
+    21300068: MainMenu_Buttons 1_16
+    21300070: MainMenu_Buttons 1_17
+    21300072: MainMenu_Buttons 1_35
+    21300074: MainMenu_Buttons 1_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 1024
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 908
+        width: 160
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 953
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 905
+        width: 366
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 822
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 797
+        width: 201
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 769
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 689
+        width: 200
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 714
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 624
+        width: 152
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 586
+        width: 200
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 474
+        width: 163
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 512
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 473
+        width: 201
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 473
+        width: 200
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 474
+        width: 201
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 555
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_24
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 384
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 384
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 470
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_27
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 297
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_28
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 297
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 470
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 209
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_31
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 209
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 470
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 121
+        width: 225
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_34
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 121
+        width: 223
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 83
+        width: 485
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 20
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 20
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 20
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 19
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 20
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 20
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 20
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenu_Buttons 1_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 470
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
