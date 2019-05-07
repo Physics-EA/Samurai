@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2_WuShi2_0905", "K2_WuShi2_0905.csproj", "{FDF960E6-5EF7-A20A-7D4D-8EAC7DEAAD80}"
 EndProject
 Global
